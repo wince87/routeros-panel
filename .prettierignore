@@ -1,0 +1,5 @@
+node_modules
+dist
+coverage
+router-panel.backup
+pnpm-lock.yaml

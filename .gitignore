@@ -1,0 +1,14 @@
+node_modules
+dist
+*.bak
+package-lock.json
+yarn.lock
+.DS_Store
+.vscode
+.idea
+coverage
+.env
+.env.local
+*.log
+.claude/
+tasks/
